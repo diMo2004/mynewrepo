@@ -1,5 +1,6 @@
 import java.util.*;
-class diMo
+import java.lang.*;
+public class code
 {
   public static void main(String []args)
   {
@@ -13,5 +14,6 @@ class diMo
     double f=a-b;
     double g=a%b;
     System.out.println(c+"\n"+d+"\n"+e+"\n"+f+"\n"+g);
+    sc.close();
   }
 }
